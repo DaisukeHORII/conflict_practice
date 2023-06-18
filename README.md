@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+I edited this file in my add-conflict branch.
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
 ## Preparation
